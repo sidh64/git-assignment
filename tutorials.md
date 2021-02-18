@@ -8,6 +8,7 @@ According to my last name i am done github branching and my review for this tuor
 However, this tutorial is a good way to learn new things but in case of lengthy coding like in mix bag if user forget any step in this tutorial, then the users must have to review whole tutorial again. 
 
 
+
 Interactive- As per my perception this tutorial seems interactive because It can lure people to join this  tutorial. 
 As this tutorial involves different levels such as introduction sequence which give the knowledge about git commit command and
 the second level Ramping up, give us knowledge about the next serving of 100% git awesomeness etc. Hence, it is the constitution
@@ -20,4 +21,6 @@ then the users must have to review whole tutorial again.
 Graphical representation of each steps makes us understand better and we can easily follow along with tutorial.
 As, Kaur balijeet state before the interactive side of this website is detailed that any person who don't know anything about coding can understand easily.
 Each level designed very attention to details that evry topic gets cover within it,moreover Exercise aftre each level coverd all the topic which we have studied on that module
-However, The major promblem in website UI is that , if start doing exercise and want see content of that module, we have to leave whole website and start doing everything all over. 
+to be conclude, The major promblem in website UI is that , if start doing exercise and want see content of that module, we have to leave whole website and start doing everything all over. 
+
+
