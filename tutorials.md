@@ -7,3 +7,11 @@ Visualization- As this tutorial involves numerous pictures or graphics therefore
 Level- It includes two main levels and four sub levels. Moreover, Git hub is free source so anybody can use this tool according to requirement.
 However, this tutorial is a good way to learn new things but in case of lengthy coding like in mix bag if user forget any step in this tutorial,
 then the users must have to review whole tutorial again. 
+
+
+Raj Patel:
+I have learn from this assingment as follows:
+How to setup with git and GitHub, and learn basic use of git and Github.
+Moreover, I get to know how to checkout and submit changes to a git repository with Command as well.
+
+
