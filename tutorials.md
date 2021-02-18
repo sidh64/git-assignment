@@ -7,3 +7,7 @@ Visualization- As this tutorial involves numerous pictures or graphics therefore
 Level- It includes two main levels and four sub levels. Moreover, Git hub is free source so anybody can use this tool according to requirement.
 However, this tutorial is a good way to learn new things but in case of lengthy coding like in mix bag if user forget any step in this tutorial,
 then the users must have to review whole tutorial again. 
+Graphical representation of each steps makes us understand better and we can easily follow along with tutorial.
+As, Kaur balijeet state before the interactive side of this website is detailed that any person who don't know anything about coding can understand easily.
+Each level designed very attention to details that evry topic gets cover within it,moreover Exercise aftre each level coverd all the topic which we have studied on that module
+However, The major promblem in website UI is that , if start doing exercise and want see content of that module, we have to leave whole website and start doing everything all over. 
