@@ -76,3 +76,10 @@ I am Prince Patel
 I was assigned "tryGit" challenges. Mainly into two dofferent parts with instructions and implementation on the other part. Given information lead towards the solution, Initially to complete the given tasks i created a repository in my account.
 It was also very helpful to workout with Git through graphical representation and working of Command line arguments.
 
+I am Kushal Thakkar
+Surname-Thakkar
+was assigned "tryGit" challenges
+Review- Ui of this website was not up to the mark, as if i had any doubt i had to repoen and re follow all the steps to get through all..
+also in my last try i have submitted a totally diffrent thing but some how / someone managed to dlt my whole data so had to do it all again!
+
+
