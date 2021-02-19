@@ -50,8 +50,22 @@ Overall, it was a great experience to use such software to learn Git.
 
 <<<<<<< HEAD
 
-I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" 
-This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it.
+I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it. This tutorial is squentially set up in 4 steps. In every step you will learn ins and outs of git commits, tips etc. The hands-on exercise is quite user friendly and anybody without a coding background can do it. The only issue i faced was that the tutorial website UI does not allow us to see the content while doing a task, this makes it difficult as we cannot refer to the content to solve the task.
+
+I am Akshita Nileshkumar Patel.
+
+As per my last name, I had to evaluate "tryGit" interactive version. It is very helpful for a beginner as each & every command is beautifully explained using graphics. The first portion is "Learn by reading" to give a brief idea of what Git is & how it is better to use when working on team projects.
+The second portion is "Learn by doing" which according to me is better than theoretical explanation as I got to know what is happening in the background whenever I executed a single command. Our knowledge is checked after learning a new command through different levels which perfectly makes us understand what we learnt. Visualization adds to more involvment into the task (otherwise it could have become a boring task:D). Also, "Git-It" provides hands-on tutorial that teaches us to use Git right from our local environment, using commands on real repositories.
+
+The only thing which is quite annoying is whenever we want to access the content of a particular command while attempting the levels, whole tutorial needs to be reviewed.
+
+
+
+I am nishil Patel.
+
+I have just completed "trygit" tutorial. as it was the first time that I was accessing the github the tutorial was really helpful, the best part of the tutorial was the first step that allows us to perform instruction with the help of graphics.
+
+learning  and setting up git & github with the instruction provided in the assignment made it easy to learn. I learned how to perform cloning the existing repository and make a branch in which I can edit file to the server.  
 
 =======
 Hi, I am Harshilkumar Mayurbhai Patel
