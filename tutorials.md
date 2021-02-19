@@ -38,3 +38,13 @@ I am Nirali N Shah. I learned Git & Github tutorial through https://try.github.i
 This tutorial involves immense resourses regarding git & github. What is git and github & defination of repository are explained in easy way. Moreover, all git commands are described in simple way so everyone can understand it and used it for complete his/her projects.
 
 From this materials, i learned how i can set up git & github. The way to clonning the existing repository and make a branch in which i can edit & upload my file to server.  
+
+I am Hemil Patel. 
+The tutorial assigned to me was to tryGit challenges(1-25). These challenges seems more interasting to me and it helped me alot.
+
+1) Each challenge devided into two parts, first one is instructions and second is implementations. According to that I created a repository in my account and perform all the necessary actions in order to complete it. After completion, the software automatically checked for whether it is completed successfully or not.
+
+2) In order to complete the challenges, instructions are given. It was very clear to understand how the command line arguments works in order to complete different tasks in Git and also The graphical representations were very useful.
+
+Overall, it was a great experience to use such software to learn Git.
+
