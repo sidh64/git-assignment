@@ -33,3 +33,8 @@ Instructions- This tutorial is easy to learn because it divided into few steps. 
 The major issue in website UI is that, if we start exercise and want see content of that module, we have to leave whole website and start doing everything all over.
 
 
+I am Nirali N Shah. I learned Git & Github tutorial through https://try.github.io 
+
+This tutorial involves immense resourses regarding git & github. What is git and github & defination of repository are explained in easy way. Moreover, all git commands are described in simple way so everyone can understand it and used it for complete his/her projects.
+
+From this materials, i learned how i can set up git & github. The way to clonning the existing repository and make a branch in which i can edit & upload my file to server.  
