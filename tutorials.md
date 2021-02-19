@@ -48,3 +48,7 @@ The tutorial assigned to me was to tryGit challenges(1-25). These challenges see
 
 Overall, it was a great experience to use such software to learn Git.
 
+
+I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" 
+This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it.
+
