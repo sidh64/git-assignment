@@ -72,6 +72,7 @@ Hi, I am Harshilkumar Mayurbhai Patel
 It was a good experience to learn about GitHub. As it was first time but Implementation of Repository and gain access to it was nice way to Learn. Even, single command tell us all the change made in repository by online or offline mode.
 >>>>>>> hmp
 
+I am Prince Patel
 I was assigned "tryGit" challenges. Mainly into two dofferent parts with instructions and implementation on the other part. Given information lead towards the solution, Initially to complete the given tasks i created a repository in my account.
 It was also very helpful to workout with Git through graphical representation and working of Command line arguments.
 
