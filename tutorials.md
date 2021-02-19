@@ -82,4 +82,6 @@ was assigned "tryGit" challenges
 Review- Ui of this website was not up to the mark, as if i had any doubt i had to repoen and re follow all the steps to get through all..
 also in my last try i have submitted a totally diffrent thing but some how / someone managed to dlt my whole data so had to do it all again!
 
+I am Ramandeep kaur. I was assigned "Learn Git Branching" I found easy way to how we can access repository and use github , commands are easy and understandable. 
+As a beginner, initially i faced some problems so i got to learn a lot. Overall it was great experience.
 
