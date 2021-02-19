@@ -24,3 +24,12 @@ Each level designed very attention to details that evry topic gets cover within 
 to be conclude, The major promblem in website UI is that , if start doing exercise and want see content of that module, we have to leave whole website and start doing everything all over. 
 
 
+I am Manankumar Patel. I completed Learn Git Branching tutorial.
+
+Interactive- As per my observation this tutorial seems interactive because It can lure people to join this tutorial. As this tutorial involves different levels such as introduction sequence which give the knowledge about git commit command and the second level Ramping up, give us knowledge about the next serving of 100% git awesomeness etc. Hence, it is the constitution of numerous level which provide knowledge about different aspects. 
+
+Instructions- This tutorial is easy to learn because it divided into few steps. Each step provides information about different aspects in easy ways.Graphical representation of each steps makes us understand better and we can easily follow along with tutorial. 
+
+The major issue in website UI is that, if we start exercise and want see content of that module, we have to leave whole website and start doing everything all over.
+
+
