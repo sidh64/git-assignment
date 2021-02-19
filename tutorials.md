@@ -48,7 +48,12 @@ The tutorial assigned to me was to tryGit challenges(1-25). These challenges see
 
 Overall, it was a great experience to use such software to learn Git.
 
+<<<<<<< HEAD
 
 I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" 
 This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it.
 
+=======
+Hi, I am Harshilkumar Mayurbhai Patel
+It was a good experience to learn about GitHub. As it was first time but Implementation of Repository and gain access to it was nice way to Learn. Even, single command tell us all the change made in repository by online or offline mode.
+>>>>>>> hmp
